@@ -1,4 +1,4 @@
-package br.com.fps.dio.academiadigital;
+package br.com.fps.dio.academia.digital;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
