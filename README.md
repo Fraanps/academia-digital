@@ -1,6 +1,6 @@
 ## Projeto Spring Data JPA
 ### Objetivo do projeto
-Conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o **Spring Data JPA**. Para isso densenvolvi uma **API RESTful** com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.
+Conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o **Spring Data JPA**. Para isso densenvolvi uma **API RESTful** com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica, em um curso oferecido pela *Digital Innovation One*.
 
 ### Tecnologias usadas 
 * IDE Intellij
